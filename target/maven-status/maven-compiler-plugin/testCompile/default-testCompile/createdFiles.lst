@@ -1,0 +1,10 @@
+org\netBank\utilities\XLUtils.class
+org\netBank\utilities\Reporting.class
+org\netBank\pageObjects\loginPage.class
+org\netBank\testCases\TC_LoginTest_001.class
+org\netBank\testCases\TC_LoginTest_003.class
+org\netBank\pageObjects\addCustomer.class
+org\netBank\testCases\BaseClass.class
+org\netBank\utilities\ReadConfig.class
+org\netBank\testCases\TC_LoginTest_002.class
+org\netBank\testCases\TC_LoginTest_001$1.class
